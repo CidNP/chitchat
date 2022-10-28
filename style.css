@@ -53,6 +53,13 @@ nav{
 }
 
 .search-box img{
-    width: 18px;
-    
+    width: 18px;   
+}
+
+.search-box input{
+    width: 100%;
+    background: transparent;
+    padding: 10px;
+    outline: none;
+    border: 0;
 }
