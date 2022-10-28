@@ -95,7 +95,6 @@ nav{
 }
 
 .left-sidebar{
-    background: #cbdffa;
     flex-basis: 25%;
     position: sticky;
     top: 70px;
@@ -103,7 +102,6 @@ nav{
 }
 
 .right-sidebar{
-    background: #cbdffa;
     flex-basis: 25%;
     position: sticky;
     top: 70px;
@@ -127,4 +125,12 @@ nav{
 .imp-links a img{
     width: 25px;
     margin-right: 15px;
+}
+
+.imp-links a:last-child{
+    color: #1876f2;
+}
+
+.imp-links{
+    border-bottom: 1px solid #ccc;
 }
