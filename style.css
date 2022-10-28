@@ -112,7 +112,7 @@ nav{
     flex-basis: 47%;
 }
 
-.imp-links a{
+.imp-links a, .shortcut-links a{
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -134,3 +134,4 @@ nav{
 .imp-links{
     border-bottom: 1px solid #ccc;
 }
+
